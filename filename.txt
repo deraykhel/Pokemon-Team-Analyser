@@ -1,0 +1,62 @@
+Hello Burmy@ Aggronite
+Shiny: No 
+EVS: 0 HP / 0 Atk / 0 Def / 0 SpA /0 SpD / 0 Spe / 
+IVS: 31 HP / 31 Atk / 31 Def / 31 SpA /31 SpD / 31 Spe / 
+Impish Nature 
+- Fake Tears 
+- Dizzy Punch 
+- Spore 
+- Defend Order 
+
+
+This Bidoof@ Charizardite Y
+Shiny: No 
+EVS: 252 HP / 148 Atk / 0 Def / 12 SpA /0 SpD / 32 Spe / 
+IVS: 31 HP / 31 Atk / 31 Def / 31 SpA /31 SpD / 31 Spe / 
+Impish Nature 
+- Fake Tears 
+- Dizzy Punch 
+- Spore 
+- Defend Order 
+
+
+is Alomomola@ Air Balloon
+Shiny: No 
+EVS: 0 HP / 0 Atk / 0 Def / 0 SpA /0 SpD / 0 Spe / 
+IVS: 31 HP / 31 Atk / 31 Def / 31 SpA /31 SpD / 31 Spe / 
+Careful Nature 
+- Diamond Storm 
+- Dragon Rush 
+- Meteor Mash 
+- Heal Bell 
+
+
+
+a Articuno@ Cell Battery
+Shiny: No 
+EVS: 252 HP / 0 Atk / 252 Def / 0 SpA /4 SpD / 0 Spe / 
+IVS: 31 HP / 31 Atk / 31 Def / 31 SpA /31 SpD / 31 Spe / 
+Relaxed Nature 
+- Constrict 
+- Bulldoze 
+- Electroweb 
+- Cotton Spore 
+
+
+testNidoranM@ Abomasite
+Shiny: No 
+EVS: 0 HP / 0 Atk / 0 Def / 0 SpA /0 SpD / 0 Spe / 
+IVS: 31 HP / 31 Atk / 31 Def / 31 SpA /31 SpD / 31 Spe / 
+Calm Nature 
+- Acid Armor 
+- Flame Burst 
+- Acid Spray 
+- Cotton Guard 
+
+
+Braviary
+Shiny: No 
+EVS: 0 HP / 0 Atk / 0 Def / 0 SpA /0 SpD / 0 Spe / 
+IVS: 31 HP / 31 Atk / 31 Def / 31 SpA /31 SpD / 31 Spe / 
+Adamant Nature 
+
